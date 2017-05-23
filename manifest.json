@@ -1,0 +1,13 @@
+{
+  // Required
+  "manifest_version": 2,
+
+  "name": "Test Extension",
+  "version": "0.1",
+  "description": "Not sure what this is going to do yet.",
+
+  "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  }
+}
